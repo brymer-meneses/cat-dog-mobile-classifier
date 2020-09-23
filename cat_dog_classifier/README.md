@@ -1,6 +1,6 @@
 # cat_dog_classifier
 
-A new Flutter project.
+A mobile application that contains real time machine learning to classify whether an image contains a dog or a cat!
 
 ## Getting Started
 
